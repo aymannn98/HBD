@@ -11,7 +11,6 @@ const photos = [
     '7.jpg',
     '8.jpg',
     '9.jpg',
-    '10.jpg',
     '11.jpg',
     '12.jpg',
     '13.jpg',
