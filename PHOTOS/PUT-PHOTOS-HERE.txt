@@ -1,0 +1,11 @@
+Put your photos in this folder.
+
+Name the six photos exactly like this:
+1.jpg
+2.jpg
+3.jpg
+4.jpg
+5.jpg
+6.jpg
+
+They will automatically pop up one by one on the birthday page.
